@@ -24,7 +24,7 @@ Você precisa ter pelo menos o JDK instalado para compilar o projeto
 
 Ou pelo terminal (comando no Ubuntu por exemplo para instalação do JDK 7)
 ```
-sudo apt-get install openjdk-7-jdk
+sudo apt-get install openjdk-9-jdk
 ```
 
 ### Compilando
